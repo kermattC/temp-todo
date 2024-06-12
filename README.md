@@ -1,4 +1,4 @@
-Practice for PERN stack (postgresql, express, react, nodejs) including containerizing a full stack app as well as deploying.
+Practice for PERN stack (postgresql, express, react, nodejs) including containerizing and deploying a full stack web app.
 
 Implementation: PERN stack from freecodecamp (https://www.youtube.com/watch?v=ldYcgPKEZC8)
 Containerization via docker for frontend, backend and database
