@@ -1,4 +1,5 @@
-- uses modal from bootstrap, really handy when it comes to updating fields that require user input
-- instead of redux, uses context. For a small project like this it makes more sense
+Practice for PERN stack (postgressql, express, react, nodejs) including containerizing a full stack app as well as deploying.
 
-Deployed frontend and backend on AWS EC2 http://3.133.148.52/
+Implementation: PERN stack from freecodecamp (https://www.youtube.com/watch?v=ldYcgPKEZC8)
+Containerization via docker for frontend, backend and database
+Deployed frontend, backend and database on AWS EC2. Link: http://3.133.148.52/
